@@ -3,3 +3,82 @@ dist/
 venv-*/
 *.egg-info/
 .*.swp
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+
+# Virtualenv
+.venv/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# OneDrive / cloud sync metadata
+*.tmp
+*.lnk
+~$*
+*.lock
+
+# Logs
+*.log
+
+# Git
+.git/
+
+# Personal backups / system
+*.bak
+*.swp
+*.swo
+
+# OneDrive extra
+~*
+
+# Python dotenv
+.env
+
+# Misc
+*.orig
