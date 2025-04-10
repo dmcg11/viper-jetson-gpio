@@ -226,6 +226,7 @@ compats_xavier = (
     'nvidia,jetson-xavier',
     'nvidia,galen-industrial',
     'nvidia,jetson-xavier-industrial',
+    'adi,gmsl522+p3668-0001nvidia,tegra194', #adding to include GMSL522
 )
 
 JETSON_TX2_NX_PIN_DEFS = [
